@@ -27,7 +27,8 @@ The main objective is to understand how changes in copper prices are reflected i
 ---
 
 ## 📊 Dashboard
-<img width="1123" height="637" alt="image" src="https://github.com/user-attachments/assets/67b0a377-e9c3-4497-a874-2e84d954e02f" />
+<img width="1122" height="632" alt="image" src="https://github.com/user-attachments/assets/3846086a-fd49-4185-a622-d334f3f4bfad" />
+
 
 
 ### 1. Cumulative Performance
@@ -77,10 +78,10 @@ The dashboard includes KPI cards highlighting:
 
 | KPI | Value |
 |---|---:|
-| FCX Big Move Days | 153 |
+| BHP Volatility Multiplier | 1.35x |
 | SCCO Total Gain | 435% |
 | Latest Copper Price | $6.2 |
-| FCX Volatility Multiplier | 1.98× |
+| FCX Volatility Multiplier | 2.03× |
 
 These metrics provide a quick summary of the major findings from the analysis.
 
